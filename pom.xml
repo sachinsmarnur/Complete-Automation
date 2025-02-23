@@ -5,8 +5,8 @@
   <artifactId>Complete-Automation</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
-<!--  <name>Archetype - Complete-Automation</name>-->
-<!--  <url>http://maven.apache.org</url>-->
+  <name>Archetype - Complete-Automation</name>
+  <url>http://maven.apache.org</url>
 
   <modules>
     <module>GlobalFramework</module>
