@@ -18,6 +18,8 @@
         <log4j>2.24.3</log4j>
         <rest-assured>5.5.1</rest-assured>
         <commons-io>2.18.0</commons-io>
+        <commons-lang3>3.17.0</commons-lang3>
+        <commons-text>1.13.0</commons-text>
         <joda-time>2.13.1</joda-time>
         <allure>2.29.1</allure>
         <json-simple>1.1.1</json-simple>
@@ -70,6 +72,18 @@
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
             <version>${commons-io}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>${commons-lang3}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-text</artifactId>
+            <version>${commons-text}</version>
         </dependency>
 
         <dependency>
